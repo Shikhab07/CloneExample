@@ -1,3 +1,3 @@
 # CloneExample
 
-This is sample to demonstrate clone
+Clone example fetch demo
