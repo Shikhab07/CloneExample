@@ -1,3 +1,3 @@
 # CloneExample
 
-Clone example fetch demo
+git pull demo
