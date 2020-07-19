@@ -1,1 +1,2 @@
 this is stash file number 1
+this file is changed and now put to stash
